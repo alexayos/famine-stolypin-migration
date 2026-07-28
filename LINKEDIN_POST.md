@@ -8,7 +8,6 @@ Using a hand-collected panel of 60 provinces and a continuous-treatment differen
 
 The results suggest that policy can activate a latent “economic memory” of past crises.
 
-🔗 Project and paper: [repository link]
+🔗 Project and paper: https://github.com/alexayos/famine-stolypin-migration
 
 #EconomicHistory #CausalInference #Migration #Economics #DataAnalysis
-
